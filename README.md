@@ -1,6 +1,6 @@
 🔍 Social Username Availability Checker
 
-![Usage GIF](https://github.com/ihor-vt/UsernameAvailabilityGo/tree/main/assets/UsernameAvailabilityGo.gif)
+![Usage GIF](https://github.com/ihor-vt/UsernameAvailabilityGo/blob/main/assets/UsernameAvailabilityGo.gif)
 
 Welcome to Social Username Availability Checker! This is a high-performance, command-line tool built in Go designed to quickly verify if a specific username is available across multiple social media platforms. Perfect for securing a consistent online identity or simply finding out if a username is taken, this tool is a must-have for brand managers, social media strategists, and developers.
 
